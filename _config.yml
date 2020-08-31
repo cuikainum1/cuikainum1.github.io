@@ -1,7 +1,7 @@
 # Site
 name: "崔凯:name"
-title: "Memoirs"
-description: "一个'程序猿'的进阶之路"
+title: "崔凯:title"
+description: "这是description配置"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /cuikainum1.github.io
